@@ -1,0 +1,10 @@
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\bin\Debug\ejercicios.exe.config
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\bin\Debug\ejercicios.exe
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\bin\Debug\ejercicios.pdb
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\obj\Debug\ejercicios.csprojAssemblyReference.cache
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\obj\Debug\ejercicios.Form1.resources
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\obj\Debug\ejercicios.Properties.Resources.resources
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\obj\Debug\ejercicios.csproj.GenerateResource.cache
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\obj\Debug\ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\obj\Debug\ejercicios.exe
+C:\Users\Enrique\Desktop\C# Docs\claseOcho\ejercicios\ejercicios\obj\Debug\ejercicios.pdb
